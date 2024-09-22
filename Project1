@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="FinalProgress" content="width=device-width, initial-scale=1.0">
+    <title>PROJECT1</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to my worldworld</h1>
+        <nav>
+            <ul>
+                <li><a href="#gallery">hoho</a></li>
+                <li><a href="#about">haha</a></li>
+                <li><a href="#contact">hehe</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <p>Anh Qua Dep:</p>
+            <ul>
+                <li><img src="image1.jpg" alt="NUI"></li>
+                <li><img src="image2.jpg" alt="BIEN"></li>
+                <li><img src="image3.jpg" alt="RUNG"></li>
+            </ul>
+        </section>
+
+        <section id="O BAO">
+            <h2>nhiu qua</h2>
+            <p>qua xinh.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <h2>dep khum</h2>
+        <p>Help me <a href="https://www.example.com" target="_blank">Zalo</a>.</p>
+    </footer>
+</body>
+</html>
